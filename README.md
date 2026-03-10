@@ -1,1 +1,1 @@
-# Eternal-Free
+# This is Free Version of Script
